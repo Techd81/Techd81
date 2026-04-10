@@ -25,25 +25,20 @@
 <table>
   <tr>
     <td width="34%" valign="top">
-
-### Languages and Tools
-
+      <strong>Languages and Tools</strong>
+      <br />
+      <br />
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,pytorch,fastapi,react,vite,docker,githubactions&perline=3" alt="Languages and Tools" />
 </p>
-
     </td>
-    <td width="66%" valign="top">
-
+    <td width="66%" valign="top" align="center">
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Techd81&show_icons=true&theme=radical&hide_border=true&rank_icon=github&custom_title=Techd%27s%20GitHub%20Stats" alt="Techd's GitHub Stats" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Techd81&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Techd81&theme=github_dark" alt="Techd's GitHub Stats" />
 </p>
-
 <p>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techd81&layout=compact&theme=radical&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Techd81&theme=github_dark" alt="Most Used Languages" />
 </p>
-
     </td>
   </tr>
 </table>
