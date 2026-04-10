@@ -45,32 +45,22 @@
 
 ---
 
-## 📈 Contribution Activity & Snake
+## 📈 Contribution Activity
 
-<table>
-  <tr>
-    <td width="62%" valign="top" align="center">
-      <strong>Contribution Activity</strong>
-      <br />
-      <br />
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Techd81&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
-    </td>
-    <td width="38%" valign="top" align="center">
-      <strong>Contribution Snake</strong>
-      <br />
-      <br />
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techd81/Techd81/output/github-contribution-grid-snake-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techd81/Techd81/output/github-contribution-grid-snake.svg" />
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Techd81/Techd81/output/github-contribution-grid-snake.svg" />
-      </picture>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Techd81&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
+</p>
 
 ---
 
-## 🔧 Optional Enhancements
+## 🐍 Contribution Snake
 
-- 在 GitHub 个人资料设置中开启 **Include private contributions on my profile**，贡献图会更完整
-- 如果后续有博客 / 博客园 / 掘金链接，可以再接一个“最近文章自动同步”模块
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techd81/Techd81/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techd81/Techd81/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Techd81/Techd81/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
