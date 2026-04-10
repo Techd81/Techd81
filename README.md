@@ -45,39 +45,28 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 📈 Contribution Activity & Snake
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Techd81&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techd81/Techd81/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techd81/Techd81/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Techd81/Techd81/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<table>
+  <tr>
+    <td width="62%" valign="top" align="center">
+      <strong>Contribution Activity</strong>
+      <br />
+      <br />
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Techd81&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
+    </td>
+    <td width="38%" valign="top" align="center">
+      <strong>Contribution Snake</strong>
+      <br />
+      <br />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Techd81/Techd81/output/github-contribution-grid-snake-dark.svg" />
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Techd81/Techd81/output/github-contribution-grid-snake.svg" />
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Techd81/Techd81/output/github-contribution-grid-snake.svg" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
