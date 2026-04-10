@@ -36,7 +36,8 @@
     <td width="66%" valign="top">
 
 <p>
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Techd81&show_icons=true&theme=radical&hide_border=true&rank_icon=github&custom_title=Techd%27s%20GitHub%20Stats" alt="Techd's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Techd81&show_icons=true&theme=radical&hide_border=true&rank_icon=github&custom_title=Techd%27s%20GitHub%20Stats" alt="Techd's GitHub Stats" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Techd81&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
 </p>
 
 <p>
@@ -85,14 +86,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Techd81&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j" alt="GitHub Streak" />
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
@@ -106,16 +99,6 @@
 <p align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
-
----
-
-## 🧭 Working Style
-
-```text
-Build useful things.
-Prefer boring solutions over clever noise.
-Ship, verify, refine, repeat.
-```
 
 ---
 
