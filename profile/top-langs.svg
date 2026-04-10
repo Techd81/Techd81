@@ -1,8 +1,8 @@
 
       <svg
-        width="300"
+        width="467"
         height="165"
-        viewBox="0 0 300 165"
+        viewBox="0 0 467 165"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
@@ -92,7 +92,7 @@
           rx="4.5"
           height="99%"
           stroke="#e4e2e2"
-          width="299"
+          width="466"
           fill="#141321"
           stroke-opacity="0"
         />
@@ -122,7 +122,7 @@
       
   
       <mask id="rect-mask">
-          <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
+          <rect x="0" y="0" width="417" height="8" fill="white" rx="5"/>
         </mask>
         
         <rect
@@ -130,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="141.06"
+          width="235.28"
           height="8"
           fill="#3178c6"
         />
@@ -138,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="141.06"
+          x="235.28"
           y="0"
-          width="61.37"
+          width="102.37"
           height="8"
           fill="#f1e05a"
         />
@@ -148,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="202.43"
+          x="337.65"
           y="0"
-          width="28.63"
+          width="47.76"
           height="8"
           fill="#663399"
         />
@@ -158,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="231.06"
+          x="385.40999999999997"
           y="0"
-          width="11.89"
+          width="19.83"
           height="8"
           fill="#3572A5"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="242.95"
+          x="405.23999999999995"
           y="0"
-          width="17.05"
+          width="11.76"
           height="8"
           fill="#e34c26"
         />
