@@ -24,20 +24,29 @@
 
 <table>
   <tr>
-    <td width="34%" valign="top">
+    <td width="28%" valign="top">
       <strong>Languages and Tools</strong>
       <br />
       <br />
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,pytorch,fastapi,react,vite,docker,githubactions&perline=3" alt="Languages and Tools" />
 </p>
+      <br />
+      <strong>Focus Areas</strong>
+      <br />
+      <br />
+      <img src="https://img.shields.io/badge/AI%20Apps-111827?style=flat-square&labelColor=f43f5e&color=111827" alt="AI Apps" />
+      <img src="https://img.shields.io/badge/Automation-111827?style=flat-square&labelColor=8b5cf6&color=111827" alt="Automation" />
+      <br />
+      <img src="https://img.shields.io/badge/Full--stack-111827?style=flat-square&labelColor=0ea5e9&color=111827" alt="Full-stack" />
+      <img src="https://img.shields.io/badge/System%20Design-111827?style=flat-square&labelColor=10b981&color=111827" alt="System Design" />
     </td>
-    <td width="66%" valign="top" align="center">
+    <td width="72%" valign="top" align="center">
 <p>
-  <img height="170" src="./profile/stats.svg" alt="Techd's GitHub Stats" />
+  <img width="100%" src="https://raw.githubusercontent.com/Techd81/Techd81/main/profile/stats.svg" alt="Techd's GitHub Stats" />
 </p>
 <p>
-  <img height="170" src="./profile/top-langs.svg" alt="Most Used Languages" />
+  <img width="100%" src="https://raw.githubusercontent.com/Techd81/Techd81/main/profile/top-langs.svg" alt="Most Used Languages" />
 </p>
     </td>
   </tr>
