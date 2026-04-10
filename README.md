@@ -34,10 +34,10 @@
     </td>
     <td width="66%" valign="top" align="center">
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Techd81&show_icons=true&theme=radical&hide_border=true&rank_icon=github&custom_title=Techd%27s%20GitHub%20Stats" alt="Techd's GitHub Stats" />
+  <img height="170" src="./profile/stats.svg" alt="Techd's GitHub Stats" />
 </p>
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techd81&layout=compact&theme=radical&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
+  <img height="170" src="./profile/top-langs.svg" alt="Most Used Languages" />
 </p>
     </td>
   </tr>
