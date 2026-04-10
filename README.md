@@ -34,10 +34,10 @@
     </td>
     <td width="66%" valign="top" align="center">
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Techd81&theme=github_dark" alt="Techd's GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Techd81&show_icons=true&theme=radical&hide_border=true&rank_icon=github&custom_title=Techd%27s%20GitHub%20Stats" alt="Techd's GitHub Stats" />
 </p>
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Techd81&theme=github_dark" alt="Most Used Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Techd81&layout=compact&theme=radical&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages" alt="Most Used Languages" />
 </p>
     </td>
   </tr>
@@ -61,38 +61,10 @@
 
 ---
 
-## 📌 Selected Work
-
-### Open-source spotlight
-
-<p>
-  <a href="https://github.com/Techd81/pixel-sokoban">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Techd81&repo=pixel-sokoban&theme=transparent&hide_border=true" alt="pixel-sokoban" />
-  </a>
-</p>
-
-### Other focus tracks
-
-- **Medical AI / Prediction Systems**：面向真实问题的数据建模、验证与产品化推进  
-- **Automation & Agent Workflows**：把重复性工作流程工具化、结构化、可复用化  
-- **Engineering-driven Prototypes**：从竞赛、实验原型到可运行演示和交付成品  
-
-> 有些工作还在持续打磨或处于私有阶段；适合公开的部分，我会逐步整理成更完整的开源输出。
-
----
-
 ## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Techd81&theme=github-compact&hide_border=true&area=true" alt="Contribution Activity Graph" />
-</p>
-
----
-
-## 🧪 Dev Metrics
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
@@ -113,4 +85,3 @@
 
 - 在 GitHub 个人资料设置中开启 **Include private contributions on my profile**，贡献图会更完整
 - 如果后续有博客 / 博客园 / 掘金链接，可以再接一个“最近文章自动同步”模块
-- 如果你想要更“极客仪表盘”的版本，可以启用仓库里的 `github-metrics.svg`
