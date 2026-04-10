@@ -22,9 +22,9 @@
 
 ## ⚡ Developer Snapshot
 
-<table>
+<table width="100%">
   <tr>
-    <td width="28%" valign="top">
+    <td width="24%" valign="top">
       <strong>Languages and Tools</strong>
       <br />
       <br />
@@ -41,13 +41,37 @@
       <img src="https://img.shields.io/badge/Full--stack-111827?style=flat-square&labelColor=0ea5e9&color=111827" alt="Full-stack" />
       <img src="https://img.shields.io/badge/System%20Design-111827?style=flat-square&labelColor=10b981&color=111827" alt="System Design" />
     </td>
-    <td width="72%" valign="top" align="center">
+    <td width="52%" valign="top" align="center">
 <p>
   <img width="100%" src="https://raw.githubusercontent.com/Techd81/Techd81/main/profile/stats.svg" alt="Techd's GitHub Stats" />
 </p>
 <p>
   <img width="100%" src="https://raw.githubusercontent.com/Techd81/Techd81/main/profile/top-langs.svg" alt="Most Used Languages" />
 </p>
+    </td>
+    <td width="24%" valign="top">
+      <strong>Current Priorities</strong>
+      <br />
+      <br />
+      <img src="https://img.shields.io/badge/AI%20Applications-111827?style=flat-square&labelColor=ec4899&color=111827" alt="AI Applications" />
+      <br />
+      <img src="https://img.shields.io/badge/Workflow%20Automation-111827?style=flat-square&labelColor=8b5cf6&color=111827" alt="Workflow Automation" />
+      <br />
+      <img src="https://img.shields.io/badge/Interactive%20Products-111827?style=flat-square&labelColor=0ea5e9&color=111827" alt="Interactive Products" />
+      <br />
+      <img src="https://img.shields.io/badge/Engineering%20Systems-111827?style=flat-square&labelColor=10b981&color=111827" alt="Engineering Systems" />
+      <br />
+      <br />
+      <strong>Build Style</strong>
+      <br />
+      <br />
+      <img src="https://img.shields.io/badge/Useful%20over%20flash-111827?style=flat-square&labelColor=f59e0b&color=111827" alt="Useful over flash" />
+      <br />
+      <img src="https://img.shields.io/badge/Ship%20%26%20iterate-111827?style=flat-square&labelColor=ef4444&color=111827" alt="Ship and iterate" />
+      <br />
+      <img src="https://img.shields.io/badge/Stable%20systems-111827?style=flat-square&labelColor=14b8a6&color=111827" alt="Stable systems" />
+      <br />
+      <img src="https://img.shields.io/badge/Builder%20mindset-111827?style=flat-square&labelColor=6366f1&color=111827" alt="Builder mindset" />
     </td>
   </tr>
 </table>
