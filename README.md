@@ -20,20 +20,6 @@
 
 ---
 
-## 🚀 About Me
-
-我更喜欢**把概念做成真的东西**：  
-把想法落成可运行的系统，把复杂流程打磨成可复用工具，把“能演示”推进到“能交付”。
-
-- 🧠 关注方向：**AI 应用落地 / 自动化工作流 / 工程化系统 / 交互式产品**
-- ⚙️ 主力栈：**Python / TypeScript / PyTorch / FastAPI / React / Vite / Docker / GitHub Actions**
-- 🔭 当前节奏：持续打磨**医疗 AI、工程系统、智能工具和 Web 交互体验**
-- 🎯 偏好风格：**实用、稳定、可维护、可验证**
-
-> I like building useful things — not just demos.
-
----
-
 ## ⚡ Developer Snapshot
 
 <table>
@@ -60,17 +46,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🧩 What I Build
-
-| 方向 | 我在做什么 |
-|---|---|
-| **AI & Modeling** | 多模态建模、智能预测、从研究原型走向可运行系统 |
-| **Automation & Tooling** | Agent 工作流、MCP 工具链、效率工具、可重复流程 |
-| **Interactive Products** | 交互式网页应用、可视化体验、从功能到“用起来顺手” |
-| **Engineering Systems** | 面向真实场景的系统搭建、验证、优化与交付 |
 
 ---
 
